@@ -1,0 +1,19 @@
+# browsers
+choco install googlechrome
+choco install firerfox
+
+# utilities
+choco install putty
+choco install 7zip
+choco install vlc
+
+# editors
+choco install notepadplusplus
+choco install vscode
+
+# languages
+choco install python
+choco install nodejs
+choco install golang
+
+
