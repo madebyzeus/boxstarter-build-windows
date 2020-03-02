@@ -1,1 +1,1 @@
-START http://boxstarter.org/package/url?https://raw.githubusercontent.com/madebyzeus/boxstarter-build-windows/master/chocolatey-recipe.txt
+Install-BoxstarterPackage -ComputerName <computer name> -PackageName https://raw.githubusercontent.com/madebyzeus/boxstarter-build-windows/master/chocolatey-recipe.txt
